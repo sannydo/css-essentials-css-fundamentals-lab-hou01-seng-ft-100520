@@ -33,7 +33,9 @@ body {
   margin: 0;
 }
 
-#featured-property
+#featured-property p {
+  
+}
 
 footer {
   text-align: center;
